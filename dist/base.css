@@ -1,0 +1,35 @@
+:root{
+  --base-font-size:16px;
+  --body-background:white;
+  --font-color:#3e3e3e;
+}
+
+*{
+  box-sizing:border-box;
+  margin:0;
+  padding:0;
+}
+
+*::before, *::after{
+  box-sizing:border-box;
+}
+
+html{
+  font-size:62.5%;
+  line-height:1.75;
+}
+
+body{
+  background:var(--body-background, white);
+  color:var(--font-color, #3e3e3e);
+  font-family:"Open Sans", sans-serif;
+  font-size:var(--base-font-size, 16px);
+  font-weight:400;
+  overflow-x:hidden;
+  position:relative;
+}
+
+main{
+  display:block;
+}
+/*# sourceMappingURL=base.css.map */

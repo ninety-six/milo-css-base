@@ -1,0 +1,22 @@
+// Variables
+// ––––––––––––––––––––––––––––––––––––––––––––––––––
+
+// Prevent horizontal scroll of <body> element
+$body-overflow-x-hidden:        true !default;
+
+// Base Font
+$base-font-family:              "Open Sans", sans-serif !default;
+$base-font-size:                16px !default;
+$base-line-height:              1.75 !default;
+$base-font-weight:              400 !default;
+
+// Base Colors
+$body-background:               rgb(255, 255, 255) !default;
+$font-color:                    rgb(62, 62, 62) !default;
+
+// CSS Variables/Custom Properties
+:root {
+    --base-font-size: #{$base-font-size};
+    --body-background: #{$body-background};
+    --font-color: #{$font-color};
+}
