@@ -12,6 +12,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 
 ### Removed
+
+## [1.0.2] - 2020-05-15
+### Removed
 - CSS Custom Properties
 
 ## [1.0.1] - 2020-05-14
@@ -22,6 +25,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial build
 
-[Unreleased]: https://github.com/ninety-six/milo-css-base/compare/v1.0.1...HEAD
+[Unreleased]: https://github.com/ninety-six/milo-css-base/compare/v1.0.2...HEAD
+[1.0.2]: https://github.com/ninety-six/milo-css-base/releases/tag/v1.0.2
 [1.0.1]: https://github.com/ninety-six/milo-css-base/releases/tag/v1.0.1
 [1.0.0]: https://github.com/ninety-six/milo-css-base/releases/tag/v1.0.0
